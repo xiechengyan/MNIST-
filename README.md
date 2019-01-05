@@ -6,3 +6,5 @@ raise eoferror("compressed file ended before the " eoferror: compressed file end
 Download sit this -> https://github.com/WegraLee/deep-learning-from-scratch/archive/master.zip 日文的 卧槽
 http://www.ituring.com.cn/book/1921 中文版
 
+运行下载有点慢 搞好了！
+
